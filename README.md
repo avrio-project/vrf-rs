@@ -2,6 +2,7 @@
 [![](https://img.shields.io/crates/v/vrf.svg)](https://crates.io/crates/vrf) [![](https://docs.rs/vrf/badge.svg)](https://docs.rs/vrf) [![](https://github.com/witnet/vrf-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/witnet/vrf-rs/actions/workflows/rust.yml)
 
 `vrf-rs` is an open source implementation of Verifiable Random Functions (VRFs) written in Rust.
+Forked to use vendored openssl feature
 
 _DISCLAIMER: This is experimental software. Be careful!_
 
